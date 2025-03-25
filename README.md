@@ -1,8 +1,8 @@
-## Hi, im Taoudi
+## Hi, im Taoudi 👋 
 
 Computer science student at UdeM <br/>
 Vice-President IT at UdeM Entreprend <br/>
-Passionate about commercial aviation and astrophysics <br/>
+Passionate about commercial aviation and astrophysics ✈️🚀 <br/>
 
 
 
