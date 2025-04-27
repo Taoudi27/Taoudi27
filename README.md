@@ -2,7 +2,7 @@
 
 Computer science student at UdeM <br/>
 Vice-President IT at UdeM Entreprend <br/>
-Passionate about commercial aviation, F1 cars and astrophysics🚀 <br/>
+Passionate about commercial aviation, F1 cars and astrophysics 🏎️ <br/>
 
 
 
