@@ -1,7 +1,7 @@
 ## Hi, im Taoudi 👋 
 
 Computer science student at UdeM <br/>
-Passionate about aviation, motorsports and high-performance engines <br/>
+
 
 
 
