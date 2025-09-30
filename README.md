@@ -1,7 +1,7 @@
 ## Hi, im Taoudi 👋 
 
-Computer science student at UdeM <br/>
-<br>English, Francais <br/>
+Computer science student at UdeM. <br/>
+<br>English, Francais. <br/>
 
 
 
