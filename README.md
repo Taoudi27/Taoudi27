@@ -2,14 +2,8 @@
 
 Computer science student at UdeM. <br/>
 <br>English, Francais. <br/>
-
 <br>I'm passionate about equity research and investment analysis , with a growing focus on cryptocurrency, decentralized protocols, and blockchain projects.<br>
-
 <br>Beyond finance and technology, I'm also passionate about cars and automotive engineering, particularly high-performance vehicles, as well as motorsports.<br>
-
-
-
-
 
 
 ## 🌐 Socials:
