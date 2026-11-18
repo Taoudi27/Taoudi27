@@ -1,7 +1,7 @@
 ## Hi, im Taoudi 👋 
 
 Computer science student at UdeM. <br/>
-<br>Beyond cs and finance, i am also passionate about high-performance cars and motorsports, particularly automotive engineering and performance.<br>
+<br>Beyond cs and finance, i am also passionate about high-performance cars and motorsports, particularly automotive engineering and performance. Here, you'll mostly find projects I built for fun, out of curiosity, or to solve problems I encountered in my everyday life.<br>
 
 <br>English, Francais. <br/>
 ## 🌐 Socials:
